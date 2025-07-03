@@ -25,7 +25,7 @@ Este projeto implementa um sistema de cadastro e login de usuários com autentic
 ## 📁 Estrutura do Projeto
 
 ```
-src/main/java/com/suaempresa/nomedomodulo/
+src/main/java/com/project/loginsystem/
 ├── NomedomoduloApplication.java
 ├── application/
 │ ├── dto/
